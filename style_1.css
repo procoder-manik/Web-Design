@@ -116,7 +116,7 @@ ul.our_Primary_menu li ul li a{}
 
 /*  Slider css */
 .slider-section{
-	background: url('pic/main-banner2.jpg');
+	background: url('main-banner2.jpg');
 	-webkit-background-size: cover;
 	background-size: cover;
 
